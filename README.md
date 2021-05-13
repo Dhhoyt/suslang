@@ -4,7 +4,7 @@ When the programming language is sus
 Its a derivative of BrainFuck, thats it.
 
 Usage:
-```python suslang.py <file>``
+```python suslang.py <file>```
 
 \+ sus
 

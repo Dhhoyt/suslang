@@ -6,6 +6,8 @@ Its a derivative of BrainFuck, thats it.
 Usage:
 ```python suslang.py <file>```
 
+Mappings from BrainFuck:
+
 \+ sus
 
 \- sussy
@@ -21,6 +23,8 @@ Usage:
 . eject
 
 , vote
+
+Have an exisitng BrainFuck program? Use bf_to_suslang.py to convert it. Just change the value of input_string to your program
 
 Hello world:
 ```

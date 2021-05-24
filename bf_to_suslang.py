@@ -15,6 +15,6 @@ for char in input_string:
         output += "imposter "
     elif char == ".":
         output += "eject "
-    elif char == "<":
+    elif char == ",":
         output += "vote "
 print(output)
